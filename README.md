@@ -1,14 +1,16 @@
 # Hi, I'm Shifan Badgujar
 
-AI & Data Science, Mumbai. I build machine learning projects and turn data into clear insights. Open to ML and Data Analyst roles.
+**Machine Learning and Data Analysis | AI & Data Science, KJSCE Mumbai**
+
+I turn raw data into working models and clear insights. My projects include detecting pneumonia from chest X-rays, catching fraud in highly imbalanced transaction data, and predicting website bounce rates. I'm open to ML and Data Analyst roles.
 
 ## Projects
 
-**[PneumoScan AI](https://github.com/fahadmemon-27/PneumoScan-ai)**: detects pneumonia from chest X-rays and classifies its severity (team project)
+**[PneumoScan AI](https://github.com/fahadmemon-27/PneumoScan-ai)**: detects pneumonia from chest X-rays and grades how severe it is (team project)
 
-**[fraud-detection-ml](https://github.com/Shifan82/fraud-detection-ml)**: Logistic Regression and Random Forest on highly imbalanced transaction data
+**[fraud-detection-ml](https://github.com/Shifan82/fraud-detection-ml)**: finds fraudulent transactions in highly imbalanced data using Logistic Regression and Random Forest
 
-**[ai-bounce-rate-predictor](https://github.com/Shifan82/ai-bounce-rate-predictor)**: predicts website bounce rate and exit pages from user behavior
+**[ai-bounce-rate-predictor](https://github.com/Shifan82/ai-bounce-rate-predictor)**: predicts website bounce rate and exit pages from user behavior data
 
 **[Web-Analytics-Project](https://github.com/Shifan82/Web-Analytics-Project)**: website analytics project
 
