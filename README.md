@@ -1,12 +1,27 @@
-# 💫 About Me:
-Hi, I'm Shifan Badgujar  <br>AI & Data Science student focused on building practical machine learning systems and solving real-world problems.<br><br>About<br>- Built ML projects including financial fraud detection using Python and Scikit-learn  <br>- Working with real-world datasets and improving model performance on imbalanced data  <br>- Currently exploring Generative AI and LangChain  <br>- Continuously improving problem-solving and system design skills  <br><br>Interests<br>- Machine Learning  <br>- Data-driven systems  <br>- Generative AI  <br>- Building practical AI applications  <br><br>Contact  <br>Email: shifanbadgujar82@gmail.com
+# Hi, I'm Shifan Badgujar
 
+AI & Data Science, Mumbai. I build machine learning projects and turn data into clear insights. Open to ML and Data Analyst roles.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shifan-badgujar1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shifanbadgujar82@gmail.com) 
+## Projects
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**[PneumoScan AI](https://github.com/fahadmemon-27/PneumoScan-ai)**: detects pneumonia from chest X-rays and classifies its severity (team project)
 
+**[fraud-detection-ml](https://github.com/Shifan82/fraud-detection-ml)**: Logistic Regression and Random Forest on highly imbalanced transaction data
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[ai-bounce-rate-predictor](https://github.com/Shifan82/ai-bounce-rate-predictor)**: predicts website bounce rate and exit pages from user behavior
+
+**[Web-Analytics-Project](https://github.com/Shifan82/Web-Analytics-Project)**: website analytics project
+
+## Skills
+
+Python, scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, FastAPI, MySQL, Power BI, Tableau, Git
+
+## Currently exploring
+
+Generative AI and LangChain
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/shifan-badgujar1)
+
+Email: shifanbadgujar82@gmail.com
