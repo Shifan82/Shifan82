@@ -24,6 +24,6 @@ Generative AI and LangChain
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/shifan-badgujar1)
+LinkedIn : (https://linkedin.com/in/shifan-badgujar1)
 
 Email: shifanbadgujar82@gmail.com
